@@ -15,8 +15,7 @@
     <Version>2025.02.15</Version>
     <Authors>Dino Chiesa</Authors>
     <Company>Dino Chiesa</Company>
-
-    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
